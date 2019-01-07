@@ -1,0 +1,10 @@
+.blaster {
+  width: 200px;
+}
+
+.bullet {
+  width: 10px;
+  height: 40px;
+  background-color: red;
+  display: inline-block;
+}

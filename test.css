@@ -1,0 +1,16 @@
+.image {
+  position: relative;
+  width : 200px;
+  top: 480px;
+  display: inline-block;
+}
+
+.bullet {
+  position: relative;
+  top: 300px;
+  left: -110px;
+  width: 10px;
+  height: 40px;
+  background-color: red;
+  display: inline-block;
+}
